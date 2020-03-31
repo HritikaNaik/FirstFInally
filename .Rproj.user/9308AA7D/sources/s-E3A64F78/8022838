@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585344182015.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2423707515",
+    "id" : "8022838",
+    "lastKnownWriteTime" : 1585344249,
+    "last_content_update" : 1585344249457,
+    "path" : "~/R/FirstFinally/FirstFinally.Rproj",
+    "project_path" : "FirstFinally.Rproj",
+    "properties" : {
+        "cursorPosition" : "0,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
